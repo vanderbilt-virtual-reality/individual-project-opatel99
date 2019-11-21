@@ -1,10 +1,10 @@
-###[Project Folder](https://github.com/vanderbilt-virtual-reality/individual-project-opatel99/tree/master/Assets "Project Folder")
+### [Project Folder](https://github.com/vanderbilt-virtual-reality/individual-project-opatel99/tree/master/Assets "Project Folder")
 
-###[Build Folder](https://github.com/vanderbilt-virtual-reality/individual-project-opatel99/tree/master/build "Build Folder")
+### [Build Folder](https://github.com/vanderbilt-virtual-reality/individual-project-opatel99/tree/master/build "Build Folder")
 
-###Video Screen Capture
+### Video Screen Capture
 
-###Game
+### Game
 I made this as a fencing training tool because I was a varsity fencer in high school.
 Because fencing gear is cumbersome and keeping the gear on you is difficult, practicing in VR is a quick way to get in target practice wherever you are (provided there is enough space).
 
