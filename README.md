@@ -2,7 +2,7 @@
 
 ### [Build Folder](https://github.com/vanderbilt-virtual-reality/individual-project-opatel99/tree/master/build "Build Folder")
 
-### Video Screen Capture
+### [Video Screen Capture](https://github.com/vanderbilt-virtual-reality/individual-project-opatel99/blob/master/gameplay/gameplay.mp4)
 
 ### Game
 I made this as a fencing training tool because I was a varsity fencer in high school.
